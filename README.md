@@ -12,7 +12,7 @@ of "get_storage" and "flutter_secure_storage".
 - Customizable look and feel through the PageStyle object
 - Built-in error handling through the onError callback
 
-![alt text](https://github.com/AmrSaied/storage_ui/blob/main/Screenshot.png.png?raw=true)
+![alt text](https://github.com/AmrSaied/storage_ui/blob/main/Screenshot.png?raw=true)
 
 ## Installation
 
